@@ -2,9 +2,9 @@ import { MenuEntry } from '@pantherswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
-    label: 'Home',
+    label: 'CacoSwap',
     icon: 'HomeIcon',
-    href: 'https://pantherswap.com/',
+    href: '#',
   },
   {
     label: 'Trade',
